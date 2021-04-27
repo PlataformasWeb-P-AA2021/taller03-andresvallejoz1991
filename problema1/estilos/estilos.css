@@ -1,0 +1,25 @@
+.uno{
+    background-color: #9999ff;
+    padding: 0.5em;
+    margin: 2em 2em 0em 2em;
+    border: black solid 2px;
+}
+.uno p{
+    background-color:#f3f3f3;
+    padding: 0.5em;
+    margin: 0.1em;
+    border: #ffff00 solid 2px;
+    font-weight: bold;
+    font-size: x-large;
+}
+.dos{
+    background-color: #ce8845;
+    margin: 0em 2em 2em 2em;
+}
+.dos p{
+    color: white;
+    margin-left: 1em;
+    margin-right: 2em;
+    border-bottom: #008000 solid 2px;
+    font-size: small;
+}
